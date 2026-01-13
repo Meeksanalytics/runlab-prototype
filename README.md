@@ -9,6 +9,6 @@ to analyze lap pacing, fatigue, and pacing drift.
 - TCX
 
 ## Live App
-👉 [Paste your Streamlit URL here]
+https://runlab-analysis.streamlit.app/
 
 Built with Streamlit + Python.
