@@ -1,0 +1,14 @@
+# RunLab – Race Analysis Prototype
+
+Upload CSV, GPX, or TCX files from Garmin, Strava, or Runkeeper  
+to analyze lap pacing, fatigue, and pacing drift.
+
+## Supported formats
+- CSV (Garmin / Strava lap exports)
+- GPX
+- TCX
+
+## Live App
+👉 [Paste your Streamlit URL here]
+
+Built with Streamlit + Python.
